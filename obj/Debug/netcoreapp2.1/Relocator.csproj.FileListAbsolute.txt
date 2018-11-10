@@ -1,0 +1,14 @@
+/Users/allan/sdg/C-sharp/relocater/Relocator/bin/Debug/netcoreapp2.1/Relocator.deps.json
+/Users/allan/sdg/C-sharp/relocater/Relocator/bin/Debug/netcoreapp2.1/Relocator.runtimeconfig.json
+/Users/allan/sdg/C-sharp/relocater/Relocator/bin/Debug/netcoreapp2.1/Relocator.runtimeconfig.dev.json
+/Users/allan/sdg/C-sharp/relocater/Relocator/bin/Debug/netcoreapp2.1/Relocator.dll
+/Users/allan/sdg/C-sharp/relocater/Relocator/bin/Debug/netcoreapp2.1/Relocator.pdb
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.csprojAssemblyReference.cache
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.csproj.CoreCompileInputs.cache
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.RazorAssemblyInfo.cache
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.RazorAssemblyInfo.cs
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.AssemblyInfoInputs.cache
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.AssemblyInfo.cs
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.RazorTargetAssemblyInfo.cache
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.dll
+/Users/allan/sdg/C-sharp/relocater/Relocator/obj/Debug/netcoreapp2.1/Relocator.pdb
